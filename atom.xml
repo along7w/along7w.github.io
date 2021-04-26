@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-04-26T04:27:09.013Z</updated>
+  <updated>2021-04-26T04:33:26.082Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,15 +21,16 @@
     <link href="http://example.com/2021/04/23/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
     <id>http://example.com/2021/04/23/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</id>
     <published>2021-04-23T11:41:18.561Z</published>
-    <updated>2021-04-26T04:27:09.013Z</updated>
+    <updated>2021-04-26T04:33:26.082Z</updated>
     
-    <content type="html"><![CDATA[<p>这虽然不是我真正意义上的第一篇博客 ，但同样值得纪念。</p><h3 id=""><a href="#" class="headerlink" title=""></a></h3><p>在搭建博客的过程中，遇到了各种困难，也得到了很多帮助。感谢小肉宝贝总是充满热情地鼓励和支持我，感谢郑广豪的技术支持。</p>]]></content>
+    <content type="html"><![CDATA[<p> Welcome to my secret garden! </p><h3 id=""><a href="#" class="headerlink" title=""></a></h3><p>这是我第一篇博客</p><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;这虽然不是我真正意义上的第一篇博客 ，但同样值得纪念。&lt;/p&gt;
-&lt;h3 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title=&quot;&quot;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;在搭建博客的过程中，遇到了各种困难，也得到了很多帮助。感谢小肉宝贝总是充满热情地鼓励和</summary>
+    <summary type="html">&lt;p&gt; Welcome to my secret garden! &lt;/p&gt;
+&lt;h3 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title=&quot;&quot;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;这是我第一篇博客&lt;/p&gt;
+&lt;p&gt;More info: &lt;a href=&quot;http</summary>
       
     
     
