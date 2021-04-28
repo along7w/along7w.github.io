@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Along</title>
   
   
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-04-26T13:24:36.940Z</updated>
+  <updated>2021-04-28T14:11:29.246Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>关于小肉</title>
+    <link href="http://example.com/2021/04/27/%E5%85%B3%E4%BA%8E%E5%B0%8F%E8%82%89/"/>
+    <id>http://example.com/2021/04/27/%E5%85%B3%E4%BA%8E%E5%B0%8F%E8%82%89/</id>
+    <published>2021-04-27T11:08:49.000Z</published>
+    <updated>2021-04-28T14:11:29.246Z</updated>
+    
+    <content type="html"><![CDATA[<p>   小肉宝宝是我在大学里最好的朋友。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;   小肉宝宝是我在大学里最好的朋友。&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="Redemption" scheme="http://example.com/tags/Redemption/"/>
+    
+  </entry>
   
   <entry>
     <title>第一篇博客</title>
@@ -31,27 +54,6 @@
     <summary type="html">&lt;p&gt; Welcome to my secret garden.&lt;/p&gt;
 &lt;h3 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title=&quot;&quot;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;这是我的第一篇博客。&lt;/p&gt;
 &lt;p&gt;严格意义上来说，又不是第一篇博客。从二月初搭建</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://example.com/2021/02/04/hello-world/"/>
-    <id>http://example.com/2021/02/04/hello-world/</id>
-    <published>2021-02-04T13:36:53.371Z</published>
-    <updated>2021-03-25T05:49:25.702Z</updated>
-    
-    <content type="html"><![CDATA[<p>hello，my name is Along. Welcome to my secret garden! </p><h3 id=""><a href="#" class="headerlink" title=""></a></h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;hello，my name is Along. Welcome to my secret garden! &lt;/p&gt;
-&lt;h3 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title=&quot;&quot;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;figure class=&quot;highl</summary>
       
     
     
