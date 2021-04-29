@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-04-29T05:36:43.979Z</updated>
+  <updated>2021-04-29T05:27:59.674Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,31 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>关于小肉</title>
-    <link href="http://example.com/2021/04/27/%E5%85%B3%E4%BA%8E%E5%B0%8F%E8%82%89/"/>
-    <id>http://example.com/2021/04/27/%E5%85%B3%E4%BA%8E%E5%B0%8F%E8%82%89/</id>
-    <published>2021-04-27T11:08:49.000Z</published>
-    <updated>2021-04-29T05:36:43.979Z</updated>
-    
-    <content type="html"><![CDATA[<p>小肉宝宝是我在大学里最好的朋友。</p><p>傅首尔有一句话特别打动我，“最珍贵的友情，就是我们曾经那么真诚又热切地帮助彼此重塑自我”。</p><p>于我而言，小肉就是那个redemption。</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;小肉宝宝是我在大学里最好的朋友。&lt;/p&gt;
-&lt;p&gt;傅首尔有一句话特别打动我，“最珍贵的友情，就是我们曾经那么真诚又热切地帮助彼此重塑自我”。&lt;/p&gt;
-&lt;p&gt;于我而言，小肉就是那个redemption。&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    
-    <category term="Redemption" scheme="http://example.com/tags/Redemption/"/>
-    
-  </entry>
   
   <entry>
     <title>第一篇博客</title>
