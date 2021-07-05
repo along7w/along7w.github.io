@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-06-02T14:09:29.232Z</updated>
+  <updated>2021-07-05T15:05:57.443Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Pain</title>
+    <link href="http://example.com/2021/07/05/Pain/"/>
+    <id>http://example.com/2021/07/05/Pain/</id>
+    <published>2021-07-05T13:54:37.000Z</published>
+    <updated>2021-07-05T15:05:57.443Z</updated>
+    
+    <content type="html"><![CDATA[<p>距离那件事已经过去了20天，我的心情也不复当时的愤慨。</p><p>终于可以冷静下来谈谈这件事情。</p><p>不想在未来的某一天重新翻看自己博客徒增烦恼。</p><p>因此我不会在这里记录事情发生的经过。</p><p>我的立场是永远不会原谅那一个人。</p><p>一直。永远。</p><p>生活依然继续。</p><p>我也学会更好地去爱一个人。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;距离那件事已经过去了20天，我的心情也不复当时的愤慨。&lt;/p&gt;
+&lt;p&gt;终于可以冷静下来谈谈这件事情。&lt;/p&gt;
+&lt;p&gt;不想在未来的某一天重新翻看自己博客徒增烦恼。&lt;/p&gt;
+&lt;p&gt;因此我不会在这里记录事情发生的经过。&lt;/p&gt;
+&lt;p&gt;我的立场是永远不会原谅那一个人。&lt;/p&gt;
+&lt;p</summary>
+      
+    
+    
+    
+    
+    <category term="情绪" scheme="http://example.com/tags/%E6%83%85%E7%BB%AA/"/>
+    
+  </entry>
   
   <entry>
     <title>近况</title>
