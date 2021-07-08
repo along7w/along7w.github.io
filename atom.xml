@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-07-05T15:05:57.443Z</updated>
+  <updated>2021-07-08T11:07:41.713Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>叆叇</title>
+    <link href="http://example.com/2021/07/08/%E5%8F%86%E5%8F%87/"/>
+    <id>http://example.com/2021/07/08/%E5%8F%86%E5%8F%87/</id>
+    <published>2021-07-08T10:28:54.000Z</published>
+    <updated>2021-07-08T11:07:41.713Z</updated>
+    
+    <content type="html"><![CDATA[<p>最近真的处于一个很焦虑和迷茫的状态。</p><p>其实我知道问题出在自己身上。</p><p>从小到大我都处于一个群体中比较靠前的位置。</p><p>一半是自己要强的性格，一半来自于管教。</p><a id="more"></a><p>进入大学之后，一下子缺乏了严厉的管教。</p><p>空有要强的性格，并不能使我成事。</p><p>所以我只能在看到考试成绩的时候难受，</p><p>在别人谈论绩点的时候心惊胆战，</p><p>看到别人拿奖学金的时候眼红，</p><p>在平时却没有实际行动。</p><p>这真的是我吗。</p><p>昔日那个努力向上的我看到今天的我会不会失望。</p><p>我习惯了保持领先，但却忘记了</p><p>这一切都是靠曾经的努力与勤奋换来的。</p><p>既然一切成空，不如重头开始。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;最近真的处于一个很焦虑和迷茫的状态。&lt;/p&gt;
+&lt;p&gt;其实我知道问题出在自己身上。&lt;/p&gt;
+&lt;p&gt;从小到大我都处于一个群体中比较靠前的位置。&lt;/p&gt;
+&lt;p&gt;一半是自己要强的性格，一半来自于管教。&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="情绪" scheme="http://example.com/tags/%E6%83%85%E7%BB%AA/"/>
+    
+  </entry>
   
   <entry>
     <title>Pain</title>
